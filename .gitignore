@@ -33,3 +33,6 @@ rad.json
 #Test results file
 TestResults.xml
 >>>>>>> bf71c37d6bb85eb797af754f133316b7f38d366a
+
+#env file
+.env
